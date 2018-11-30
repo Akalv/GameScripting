@@ -1,0 +1,7 @@
+PlayerMove 10 10 
+LookAt 2
+Pause 1000
+PlayerMove 10 0
+//ÕâÀïÊÇ×¢ÊÍ
+Pause 1000
+PlayerMove 0 0
