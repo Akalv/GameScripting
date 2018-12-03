@@ -1,7 +1,9 @@
+DefConst xl 100
+
 PlayerMove 10 10 
-LookAt 2
+LookAt DOWN
 Pause 1000
 PlayerMove 10 0
 //’‚¿Ô «◊¢ Õ
 Pause 1000
-PlayerMove 0 0
+PlayerMove XL 0

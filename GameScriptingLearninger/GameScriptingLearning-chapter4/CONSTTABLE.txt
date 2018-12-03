@@ -1,0 +1,6 @@
+DefConst TRUE 1
+DefConst FALSE 0
+DefConst UP 2
+DefCOnst Down 3
+DefConst Left 4
+DefConst Right 5

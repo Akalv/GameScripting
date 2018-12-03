@@ -32,5 +32,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="script.txt" />
+    <Text Include="CONSTTABLE.txt" />
   </ItemGroup>
 </Project>

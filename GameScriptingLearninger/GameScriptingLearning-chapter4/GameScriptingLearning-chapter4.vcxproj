@@ -163,6 +163,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <Text Include="CONSTTABLE.txt" />
     <Text Include="script.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
