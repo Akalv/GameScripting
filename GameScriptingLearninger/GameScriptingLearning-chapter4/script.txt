@@ -1,5 +1,9 @@
 DefConst xl 100
-
+Block Hello
+{
+LookAt DOWN
+Pause 200
+}
 PlayerMove 10 10 
 LookAt DOWN
 Pause 1000
