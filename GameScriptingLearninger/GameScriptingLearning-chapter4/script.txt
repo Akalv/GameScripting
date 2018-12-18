@@ -1,13 +1,15 @@
-DefConst xl 100
+Block No
+{
+LookAt LEFT
+}
 Block Hello
 {
 LookAt DOWN
 Pause 200
+No
 }
-PlayerMove 10 10 
-LookAt DOWN
-Pause 1000
-PlayerMove 10 0
-//’‚¿Ô «◊¢ Õ
-Pause 1000
-PlayerMove XL 0
+LookAt UP
+Hello
+LookAt RIGHT
+If WolfDead Hello No
+If MonsterDead Hello No
