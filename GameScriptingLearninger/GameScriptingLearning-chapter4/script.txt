@@ -1,3 +1,4 @@
+//IncludeFile test.txt
 Block No
 {
 LookAt LEFT
@@ -8,8 +9,16 @@ LookAt DOWN
 Pause 200
 No
 }
+Block Loop
+{
+PlayerSay "loop..."
+}
 LookAt UP
 Hello
+//NewFile
 LookAt RIGHT
 If WolfDead Hello No
 If MonsterDead Hello No
+PlayerSay "fuckuuuuuuuuuuuuuuuu!"
+while 10 Loop
+PlayerSay "Loop end."

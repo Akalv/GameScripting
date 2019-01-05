@@ -165,6 +165,7 @@
   <ItemGroup>
     <Text Include="CONSTTABLE.txt" />
     <Text Include="script.txt" />
+    <Text Include="test.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,2 @@
+IncludeFile xxx.ts
+PlayerSay "Hard..."
