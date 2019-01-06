@@ -1,4 +1,6 @@
-//IncludeFile test.txt
+IncludeFile "CONSTTABLE.txt"
+IncludeFile "test.txt"
+IncludeFile "test.txt"
 Block No
 {
 LookAt LEFT
@@ -15,7 +17,7 @@ PlayerSay "loop..."
 }
 LookAt UP
 Hello
-//NewFile
+NewFile
 LookAt RIGHT
 If WolfDead Hello No
 If MonsterDead Hello No

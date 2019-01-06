@@ -1,2 +1,4 @@
-IncludeFile xxx.ts
-PlayerSay "Hard..."
+Block NewFile
+{
+PlayerSay "New File"
+}
